@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=26&duration=1&pause=999999999&repeat=false&color=8FD4A8&center=true&vCenter=true&width=440&lines=Hi%2C+I%27m+Rain+%F0%9F%91%8B" alt="Hi, I'm Rain 👋" />
 </p>
 
+<div align="center">
+  <hr width="35%" size="1">
+</div>
+
 <p align="center">
   M.Sc. student in Software Engineering at Jilin University.<br>
   Agent and LLM role-playing dialogue.<br>
