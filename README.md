@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
 
 ### 🔬 Research Interests
 
@@ -27,7 +27,7 @@
 - Agentic RL
 
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
 
 ### 🧭 Currently Exploring
 
