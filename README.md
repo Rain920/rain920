@@ -13,9 +13,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rain920&label=Profile%20views&color=8FD4A8&style=flat-square" height="26" />
+  <img src="https://komarev.com/ghpvc/?username=rain920&label=Profile%20views&color=8FD4A8&style=flat-square" height="32" />
   &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rain920&query=$.public_repos&label=Public%20repos&color=8FD4A8&style=flat-square&logo=github" height="26" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rain920&query=$.public_repos&label=Public%20repos&color=8FD4A8&style=flat-square&logo=github" height="32" />
 </p>
 
 ---
