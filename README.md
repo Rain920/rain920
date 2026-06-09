@@ -16,32 +16,44 @@
 
 <br>
 
-> [!TIP]
-> ### 🔬 Research Interests
->
-> - Time series analysis
-> - LLM role-playing dialogue
-> - Agentic RL
+<div markdown="1" style="border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; margin-bottom: 12px;">
 
-> [!TIP]
-> ### 🧭 Currently Exploring
->
-> - AI infra
-> - RL theory
-> - LLM Inference
+### 🔬 Research Interests
 
-> [!TIP]
-> ### ✨ Other Interests
->
-> - Multimodal understanding & generation *(for robot brain)*
-> - World models
-> - AI music
+- Time series analysis
+- LLM role-playing dialogue
+- Agentic RL
 
-> [!TIP]
-> ### 📌 What You'll Find Here
->
-> - Recent work updates
-> - Learning notes & study repos
-> - Open-source projects — personal and group *(in progress: research agent assistant, MemoRe, Memory Palace — a personal knowledge base)*
-> - Write-ups from competitions and projects
+</div>
+
+<div markdown="1" style="border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; margin-bottom: 12px;">
+
+### 🧭 Currently Exploring
+
+- AI infra
+- RL theory
+- LLM Inference
+
+</div>
+
+<div markdown="1" style="border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; margin-bottom: 12px;">
+
+### ✨ Other Interests
+
+- Multimodal understanding & generation *(for robot brain)*
+- World models
+- AI music
+
+</div>
+
+<div markdown="1" style="border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; margin-bottom: 12px;">
+
+### 📌 What You'll Find Here
+
+- Recent work updates
+- Learning notes & study repos
+- Open-source projects — personal and group *(in progress: research agent assistant, MemoRe, Memory Palace — a personal knowledge base)*
+- Write-ups from competitions and projects
+
+</div>
 
