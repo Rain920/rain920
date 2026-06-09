@@ -14,34 +14,34 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rain920&query=$.public_repos&label=Public%20repos&color=8FD4A8&style=flat-square&logo=github" height="32" />
 </p>
 
----
-### 🔬 Research Interests
+<br>
 
-- Time series analysis
-- LLM role-playing dialogue
-- Agentic RL
+> [!TIP]
+> ### 🔬 Research Interests
+>
+> - Time series analysis
+> - LLM role-playing dialogue
+> - Agentic RL
 
----
+> [!TIP]
+> ### 🧭 Currently Exploring
+>
+> - AI infra
+> - RL theory
+> - LLM Inference
 
-### 🧭 Currently Exploring
+> [!TIP]
+> ### ✨ Other Interests
+>
+> - Multimodal understanding & generation *(for robot brain)*
+> - World models
+> - AI music
 
-- AI infra
-- RL theory
-- LLM Inference
+> [!TIP]
+> ### 📌 What You'll Find Here
+>
+> - Recent work updates
+> - Learning notes & study repos
+> - Open-source projects — personal and group *(in progress: research agent assistant, MemoRe, Memory Palace — a personal knowledge base)*
+> - Write-ups from competitions and projects
 
----
-
-### ✨ Other Interests
-
-- Multimodal understanding & generation *(for robot brain)*
-- World models
-- AI music
-
----
-
-### 📌 What You'll Find Here
-
-- Recent work updates
-- Learning notes & study repos
-- Open-source projects — personal and group *(in progress: research agent assistant, MemoRe, Memory Palace — a personal knowledge base)*
-- Write-ups from competitions and projects
