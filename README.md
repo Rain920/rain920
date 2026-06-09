@@ -14,9 +14,11 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rain920&query=$.public_repos&label=Public%20repos&color=8FD4A8&style=flat-square&logo=github" height="32" />
 </p>
 
-<br>
+---
 
-<div markdown="1" style="border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; margin-bottom: 12px;">
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 ### 🔬 Research Interests
 
@@ -24,9 +26,8 @@
 - LLM role-playing dialogue
 - Agentic RL
 
-</div>
-
-<div markdown="1" style="border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; margin-bottom: 12px;">
+    </td>
+    <td valign="top" width="50%">
 
 ### 🧭 Currently Exploring
 
@@ -34,9 +35,11 @@
 - RL theory
 - LLM Inference
 
-</div>
+    </td>
+  </tr>
+</table>
 
-<div markdown="1" style="border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; margin-bottom: 12px;">
+---
 
 ### ✨ Other Interests
 
@@ -44,9 +47,7 @@
 - World models
 - AI music
 
-</div>
-
-<div markdown="1" style="border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; margin-bottom: 12px;">
+---
 
 ### 📌 What You'll Find Here
 
@@ -54,6 +55,4 @@
 - Learning notes & study repos
 - Open-source projects — personal and group *(in progress: research agent assistant, MemoRe, Memory Palace — a personal knowledge base)*
 - Write-ups from competitions and projects
-
-</div>
 
