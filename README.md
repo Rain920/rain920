@@ -1,43 +1,31 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999999&repeat=false&color=87CEEB&center=true&width=420&lines=Hi%2C+I%27m+Rain+%F0%9F%91%8B" alt="Hi, I'm Rain 👋" />
-</p>
+<h2><font color="#87CEEB">Hi, I'm Rain 👋</font></h2>
 
-<p align="center">
-  M.Sc. student in Software Engineering at Jilin University.<br>
-  I'm interested in LLM role-playing dialogue, and Agentic RL.<br>
-  I'm seeking full-time AI-native roles and multimodal research assistant (RA) opportunities.<br>
-  Feel free to reach out — I'd love to connect! 📫 <a href="mailto:rains920@qq.com">rains920@qq.com</a>
+M.Sc. student in Software Engineering at Jilin University. 
+
+I'm interested in LLM role-playing dialogue and Agentic RL. I'm seeking full-time AI-native roles and multimodal research assistant (RA) opportunities. Feel free to reach out — I'd love to connect! 📫 [rains920@qq.com](mailto:rains920@qq.com)
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rain920&label=Profile%20views&color=87CEEB&style=flat-square" height="20" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rain920&query=$.public_repos&label=Public%20repos&color=87CEEB&style=flat-square&logo=github" height="20" />
 </p>
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
+### 🔬 Research Interests
 
-**🔬 Research Interests**
+- Time series analysis
+- LLM role-playing dialogue
+- Agentic RL
 
-- 📈 Time series analysis
-- 💬 LLM role-playing dialogue
-- 🤖 Agentic RL
+### 🧭 Currently Exploring
 
-    </td>
-    <td valign="top" width="33%">
+- AI infra
+- RL theory
+- LLM Inference
 
-**🧭 Currently Exploring**
+### ✨ Other Interests
 
-- ⚙️ AI infrastructure
-- 📐 RL theory
-
-    </td>
-    <td valign="top" width="33%">
-
-**✨ Other Interests**
-
-1. 🦾 Multimodal understanding & generation *(for robot brain)*
-2. 🌍 World models
-3. 🎵 AI music
-
-    </td>
-  </tr>
-</table>
+- Multimodal understanding & generation *(for robot brain)*
+- World models
+- AI music
