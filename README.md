@@ -15,29 +15,16 @@
 </p>
 
 ---
-
-<div align="left" markdown="1">
-
 ### 🔬 Research Interests
-
 - Time series analysis
 - LLM role-playing dialogue
 - Agentic RL
 
-</div>
-
-<div align="right" markdown="1">
 
 ### 🧭 Currently Exploring
-
 - AI infra
 - RL theory
 - LLM Inference
-
-</div>
-
-<br clear="both">
-
 ---
 
 ### ✨ Other Interests
