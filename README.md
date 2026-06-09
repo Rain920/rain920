@@ -1,6 +1,12 @@
-<h2 align="center"><font color="#8FD4A8">Hi, I'm Rain 👋</font></h2>
-
-M.Sc. student in Software Engineering at Jilin University. I'm interested in LLM role-playing dialogue and Agentic RL. I'm seeking full-time **AI-native jobs** and **research assistant (RA)** opportunities. Feel free to contact me! 📫 [rains920@qq.com](mailto:rains920@qq.com)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=32&duration=1&pause=999999999&repeat=false&color=8FD4A8&center=true&vCenter=true&width=440&lines=Hi%2C+I%27m+Rain+%F0%9F%91%8B" alt="Hi, I'm Rain 👋" />
+</p>
+<p align="center">
+M.Sc. student in Software Engineering at Jilin University. 
+Agent and LLM role-playing dialogue. 
+I'm seeking full-time **AI-native jobs** and **research assistant (RA)** opportunities. 
+Feel free to contact me about anything! 📫 [rains920@qq.com](mailto:rains920@qq.com)
+</p>
 
 ---
 
