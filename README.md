@@ -16,9 +16,7 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="100%">
+<div align="left" markdown="1">
 
 ### 🔬 Research Interests
 
@@ -26,8 +24,9 @@
 - LLM role-playing dialogue
 - Agentic RL
 
-    </td>
-    <td valign="top" width="100%">
+</div>
+
+<div align="right" markdown="1">
 
 ### 🧭 Currently Exploring
 
@@ -35,9 +34,9 @@
 - RL theory
 - LLM Inference
 
-    </td>
-  </tr>
-</table>
+</div>
+
+<br clear="both">
 
 ---
 
