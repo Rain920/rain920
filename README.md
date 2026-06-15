@@ -47,15 +47,15 @@
 </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&style=italic&weight=500&size=26&duration=2500&pause=999999999&repeat=false&color=D4AF37&center=true&vCenter=true&width=850&lines=In+building+the+world%2C+understand+every+visible+field+and+corner." alt="Motto" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&style=italic&weight=500&size=26&duration=2500&pause=999999999&repeat=false&color=8FD4A8&center=true&vCenter=true&width=850&lines=In+building+the+world%2C+understand+every+visible+field+and+corner." alt="Motto" />
   <br>
   <svg width="60%" height="4" viewBox="0 0 400 4" xmlns="http://www.w3.org/2000/svg">
     <linearGradient id="flowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="rgba(212,175,55,0)" />
-      <stop offset="30%" stop-color="rgba(212,175,55,0.8)" />
-      <stop offset="50%" stop-color="#D4AF37" />
-      <stop offset="70%" stop-color="rgba(212,175,55,0.8)" />
-      <stop offset="100%" stop-color="rgba(212,175,55,0)" />
+      <stop offset="0%" stop-color="rgba(143,212,168,0)" />
+      <stop offset="30%" stop-color="rgba(143,212,168,0.8)" />
+      <stop offset="50%" stop-color="#8FD4A8" />
+      <stop offset="70%" stop-color="rgba(143,212,168,0.8)" />
+      <stop offset="100%" stop-color="rgba(143,212,168,0)" />
       <animateTransform attributeName="transform" type="translate" from="-400 0" to="400 0" dur="2s" repeatCount="indefinite" />
     </linearGradient>
     <rect width="400" height="4" fill="url(#flowGrad)" rx="2" />
