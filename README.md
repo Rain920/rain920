@@ -8,6 +8,7 @@
   Feel free to contact me about anything! 📫 <a href="mailto:rains920@qq.com">rains920@qq.com</a>
 </p>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rain920&label=Profile%20views&color=8FD4A8&style=flat-square" height="32" />
   &nbsp;
@@ -17,22 +18,15 @@
 ---
 ### 🔬 Research Interests
 - Time series analysis
-- LLM role-playing dialogue
-- Agentic RL
+- 🔧 LLM role-playing intelligence
+- 🔧 Agentic System: Build & Optimization
+- 📖 Multimodal understanding & generation
 
 
-### 🧭 Currently Exploring
-- AI infra
-- RL theory
-- LLM Inference
----
-
-### ✨ Other Interests
-
-- Multimodal understanding & generation *(for robot brain)*
+### 🧭 Continued Exploring
+- LM/Agent infra
 - World models
 - AI music
-
 ---
 
 ### 📌 What You'll Find Here
@@ -42,3 +36,6 @@
 - Open-source projects — personal and group *(in progress: research agent assistant, MemoRe, Memory Palace — a personal knowledge base)*
 - Write-ups from competitions and projects
 
+<blockquote align="center">
+  <em>Before building the world, understand every visible field and corner.</em>
+</blockquote>
