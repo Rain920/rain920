@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   M.Sc. student in Software Engineering at Jilin University.<br>
-  Agent and LLM role-playing dialogue.<br>
+  Focusing on Agentic systems and LLM role-playing intelligence.<br>
   I'm seeking full-time <strong>AI-native jobs</strong> and <strong>research assistant (RA)</strong> opportunities.<br>
   Feel free to contact me about anything! 📫 <a href="mailto:rains920@qq.com">rains920@qq.com</a>
 </p>
@@ -35,7 +35,8 @@
 - Learning notes & study repos
 - Open-source projects — personal and group *(in progress: research agent assistant, MemoRe, Memory Palace — a personal knowledge base)*
 - Write-ups from competitions and projects
+---
 
-<blockquote align="center">
-  <em>Before building the world, understand every visible field and corner.</em>
-</blockquote>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&style=italic&size=20&duration=2500&pause=999999999&repeat=false&color=8FD4A8&center=true&vCenter=true&width=750&lines=In+building+the+world%2C+understand+every+visible+field+and+corner." alt="Motto" />
+</p>
