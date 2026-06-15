@@ -37,6 +37,11 @@
 - Write-ups from competitions and projects
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Lora&style=italic&size=20&duration=2500&pause=999999999&repeat=false&color=8FD4A8&center=true&vCenter=true&width=750&lines=In+building+the+world%2C+understand+every+visible+field+and+corner." alt="Motto" />
+</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&style=italic&weight=500&size=26&duration=2500&pause=999999999&repeat=false&color=D4AF37&center=true&vCenter=true&width=850&lines=In+building+the+world%2C+understand+every+visible+field+and+corner." alt="Motto" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=2&section=footer&fontSize=1&animation=twinkling" width="60%" style="max-width: 500px;" />
 </p>
